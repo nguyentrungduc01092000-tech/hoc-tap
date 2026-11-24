@@ -1,0 +1,6 @@
+# robots.txt cho website #17 — Phương pháp học tập hiệu quả.
+# Không chặn Google truy cập website.
+User-agent: *
+Allow: /
+
+Sitemap: https://bitlog.click/sitemap.xml

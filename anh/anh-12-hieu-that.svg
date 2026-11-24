@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-label="Sơ đồ ba câu hỏi tự kiểm tra: giải thích được không, làm bài biến thể được không, nối các ý với nhau được không">
+  <rect width="800" height="450" fill="#fdf6ec"/>
+  <text x="400" y="48" font-family="sans-serif" font-size="26" font-weight="bold" text-anchor="middle" fill="#333333">Đã hiểu thật hay chỉ nhớ từ khóa?</text>
+  <g font-family="sans-serif" font-size="18" text-anchor="middle">
+    <rect x="60" y="120" width="200" height="130" rx="12" fill="#4a90d9"/>
+    <text x="160" y="160" fill="#ffffff" font-weight="bold">1. Giải thích được</text>
+    <text x="160" y="190" fill="#ffffff">bằng lời của mình,</text>
+    <text x="160" y="218" fill="#ffffff">không nhìn sách?</text>
+    <text x="290" y="190" font-size="28" fill="#333333">→</text>
+    <rect x="330" y="120" width="200" height="130" rx="12" fill="#d64545"/>
+    <text x="430" y="160" fill="#ffffff" font-weight="bold">2. Làm được bài</text>
+    <text x="430" y="190" fill="#ffffff">biến thể, đổi số</text>
+    <text x="430" y="218" fill="#ffffff">hoặc điều kiện?</text>
+    <text x="560" y="190" font-size="28" fill="#333333">→</text>
+    <rect x="600" y="120" width="160" height="130" rx="12" fill="#2e7d32"/>
+    <text x="680" y="160" fill="#ffffff" font-weight="bold">3. Nối được</text>
+    <text x="680" y="190" fill="#ffffff">các ý</text>
+    <text x="680" y="218" fill="#ffffff">với nhau?</text>
+  </g>
+  <text x="400" y="320" font-family="sans-serif" font-size="18" text-anchor="middle" fill="#333333">Quen thuộc không phải là hiểu biết — hãy kiểm tra khi sách đang đóng.</text>
+  <text x="400" y="390" font-family="sans-serif" font-size="16" text-anchor="middle" fill="#666666">Hình minh họa tự vẽ (SVG).</text>
+</svg>

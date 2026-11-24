@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-label="Sơ đồ một buổi học không điện thoại: điện thoại ở phòng khác, hai khung giờ nghỉ được phép dùng điện thoại">
+  <rect width="800" height="450" fill="#fdf6ec"/>
+  <text x="400" y="48" font-family="sans-serif" font-size="26" font-weight="bold" text-anchor="middle" fill="#333333">Một buổi học không điện thoại</text>
+  <g font-family="sans-serif" font-size="17" text-anchor="middle">
+    <rect x="60" y="110" width="200" height="90" rx="12" fill="#4a90d9"/>
+    <text x="160" y="148" fill="#ffffff" font-weight="bold">19:00–19:50</text>
+    <text x="160" y="176" fill="#ffffff">Học — điện thoại ở</text>
+    <text x="160" y="198" fill="#ffffff" font-size="14">phòng khác</text>
+    <rect x="285" y="110" width="120" height="90" rx="12" fill="#2e7d32"/>
+    <text x="345" y="148" fill="#ffffff" font-weight="bold">Nghỉ 10 phút</text>
+    <text x="345" y="176" fill="#ffffff">Được dùng</text>
+    <text x="345" y="198" fill="#ffffff" font-size="14">điện thoại</text>
+    <rect x="430" y="110" width="200" height="90" rx="12" fill="#4a90d9"/>
+    <text x="530" y="148" fill="#ffffff" font-weight="bold">20:00–20:50</text>
+    <text x="530" y="176" fill="#ffffff">Học — điện thoại ở</text>
+    <text x="530" y="198" fill="#ffffff" font-size="14">phòng khác</text>
+  </g>
+  <g font-family="sans-serif" font-size="17" text-anchor="middle">
+    <rect x="60" y="240" width="120" height="90" rx="12" fill="#2e7d32"/>
+    <text x="120" y="278" fill="#ffffff" font-weight="bold">Nghỉ 10 phút</text>
+    <text x="120" y="306" fill="#ffffff">Được dùng</text>
+    <rect x="205" y="240" width="200" height="90" rx="12" fill="#4a90d9"/>
+    <text x="305" y="278" fill="#ffffff" font-weight="bold">21:00–21:30</text>
+    <text x="305" y="306" fill="#ffffff">Học — không điện thoại</text>
+    <rect x="430" y="240" width="200" height="90" rx="12" fill="#888888"/>
+    <text x="530" y="278" fill="#ffffff" font-weight="bold">21:30 trở đi</text>
+    <text x="530" y="306" fill="#ffffff">Trả lời tin nhắn sau</text>
+  </g>
+  <text x="400" y="390" font-family="sans-serif" font-size="16" text-anchor="middle" fill="#666666">Hình minh họa tự vẽ (SVG) — ví dụ minh họa, không phải lịch đã được nghiên cứu chứng minh.</text>
+</svg>

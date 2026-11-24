@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="360" viewBox="0 0 720 360" role="img" aria-label="Sơ đồ một trang vở mẫu dùng ba màu và bốn ký hiệu: định nghĩa xanh dương, ý quan trọng đỏ có ngôi sao, ví dụ xanh lá, dấu hỏi cho chỗ chưa hiểu, dấu chấm than cho lỗi hay gặp">
+  <rect width="720" height="360" fill="#f7f5ef"/>
+  <text x="360" y="34" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#1f2937">Một trang vở mẫu — 3 màu, 4 ký hiệu</text>
+  <g font-family="sans-serif" font-size="15" fill="#1f2937">
+    <rect x="40" y="56" width="640" height="52" rx="8" fill="#ffffff" stroke="#9ca3af"/>
+    <text x="60" y="88" font-weight="bold" fill="#2563eb">Quang hợp</text>
+    <text x="240" y="88">Xanh dương: định nghĩa · Đỏ: quan trọng · Xanh lá: ví dụ</text>
+    <rect x="40" y="124" width="640" height="44" rx="8" fill="#ffffff" stroke="#9ca3af"/>
+    <text x="60" y="152" fill="#2563eb">Định nghĩa: cây xanh dùng ánh sáng để làm ra chất hữu cơ.</text>
+    <rect x="40" y="184" width="640" height="44" rx="8" fill="#ffffff" stroke="#9ca3af"/>
+    <text x="60" y="212" fill="#dc2626">Quan trọng: quang hợp diễn ra ở lục lạp.</text>
+    <text x="640" y="212" text-anchor="middle" font-size="20" fill="#d97706">★</text>
+    <rect x="40" y="244" width="640" height="44" rx="8" fill="#ffffff" stroke="#9ca3af"/>
+    <text x="60" y="272" fill="#16a34a">Ví dụ: cây lúa quang hợp mạnh nhất vào buổi sáng.</text>
+    <text x="60" y="316" font-size="14">? Chỗ chưa hiểu — ! Lỗi hay gặp — → Nối ý với nhau</text>
+  </g>
+  <text x="360" y="348" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#6b7280">Hình minh họa tự vẽ — không phải ảnh chụp</text>
+</svg>

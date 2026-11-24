@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="360" viewBox="0 0 720 360" role="img" aria-label="Sơ đồ bốn bước ghi chép bằng câu hỏi: đặt câu hỏi từ tiêu đề, đọc nội dung, gấp sách viết câu trả lời, che đáp án để tự kiểm tra">
+  <rect width="720" height="360" fill="#f7f5ef"/>
+  <text x="360" y="34" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#1f2937">Ghi chép bằng câu hỏi — 4 bước</text>
+  <g font-family="sans-serif" font-size="15" fill="#1f2937">
+    <rect x="40" y="60" width="300" height="110" rx="10" fill="#dbeafe" stroke="#2563eb"/>
+    <text x="190" y="92" text-anchor="middle" font-weight="bold">1. Đặt câu hỏi</text>
+    <text x="190" y="118" text-anchor="middle">Đọc tiêu đề, biến thành</text>
+    <text x="190" y="140" text-anchor="middle">câu hỏi: là gì? vì sao?</text>
+    <rect x="380" y="60" width="300" height="110" rx="10" fill="#dcfce7" stroke="#16a34a"/>
+    <text x="530" y="92" text-anchor="middle" font-weight="bold">2. Đọc nội dung</text>
+    <text x="530" y="118" text-anchor="middle">Đọc một phần, tìm câu</text>
+    <text x="530" y="140" text-anchor="middle">trả lời cho câu hỏi đó</text>
+    <rect x="40" y="200" width="300" height="110" rx="10" fill="#fef3c7" stroke="#d97706"/>
+    <text x="190" y="232" text-anchor="middle" font-weight="bold">3. Gấp sách, viết đáp án</text>
+    <text x="190" y="258" text-anchor="middle">Viết câu trả lời bằng</text>
+    <text x="190" y="280" text-anchor="middle">lời của mình, rồi kiểm tra</text>
+    <rect x="380" y="200" width="300" height="110" rx="10" fill="#fee2e2" stroke="#dc2626"/>
+    <text x="530" y="232" text-anchor="middle" font-weight="bold">4. Che đáp án, tự kiểm tra</text>
+    <text x="530" y="258" text-anchor="middle">Vài ngày sau, tự trả lời</text>
+    <text x="530" y="280" text-anchor="middle">lại từng câu hỏi</text>
+  </g>
+  <text x="360" y="340" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#6b7280">Hình minh họa tự vẽ — không phải ảnh chụp</text>
+</svg>

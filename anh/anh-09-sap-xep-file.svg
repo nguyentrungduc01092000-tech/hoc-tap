@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-label="Sơ đồ thư mục học kỳ: thư mục gốc theo học kỳ, bên trong là thư mục từng môn, mỗi môn có ba thư mục con là Ghi chép, Bài tập và Ôn thi">
+  <rect width="800" height="450" fill="#fdf6ec"/>
+  <text x="400" y="48" font-family="sans-serif" font-size="26" font-weight="bold" text-anchor="middle" fill="#333333">Thư mục học kỳ mẫu</text>
+  <g font-family="sans-serif" font-size="18" text-anchor="middle">
+    <rect x="300" y="80" width="200" height="55" rx="10" fill="#333333"/>
+    <text x="400" y="115" fill="#ffffff" font-weight="bold">Hoc-ky-1</text>
+    <rect x="120" y="180" width="140" height="50" rx="10" fill="#4a90d9"/>
+    <text x="190" y="211" fill="#ffffff" font-weight="bold">Toan</text>
+    <rect x="330" y="180" width="140" height="50" rx="10" fill="#d64545"/>
+    <text x="400" y="211" fill="#ffffff" font-weight="bold">Lich-su</text>
+    <rect x="540" y="180" width="140" height="50" rx="10" fill="#2e7d32"/>
+    <text x="610" y="211" fill="#ffffff" font-weight="bold">Sinh-hoc</text>
+    <rect x="90" y="280" width="130" height="45" rx="10" fill="#e8f0fe" stroke="#4a90d9" stroke-width="2"/>
+    <text x="155" y="309" fill="#333333">Ghi-chep</text>
+    <rect x="230" y="280" width="130" height="45" rx="10" fill="#e8f0fe" stroke="#4a90d9" stroke-width="2"/>
+    <text x="295" y="309" fill="#333333">Bai-tap</text>
+    <rect x="370" y="280" width="130" height="45" rx="10" fill="#e8f0fe" stroke="#4a90d9" stroke-width="2"/>
+    <text x="435" y="309" fill="#333333">On-thi</text>
+    <rect x="560" y="280" width="180" height="45" rx="10" fill="#fff3cd" stroke="#e67e22" stroke-width="2"/>
+    <text x="650" y="309" fill="#333333">Sao luu dam may</text>
+  </g>
+  <line x1="400" y1="135" x2="190" y2="180" stroke="#333333" stroke-width="2"/>
+  <line x1="400" y1="135" x2="400" y2="180" stroke="#333333" stroke-width="2"/>
+  <line x1="400" y1="135" x2="610" y2="180" stroke="#333333" stroke-width="2"/>
+  <line x1="190" y1="230" x2="155" y2="280" stroke="#4a90d9" stroke-width="2"/>
+  <line x1="190" y1="230" x2="295" y2="280" stroke="#4a90d9" stroke-width="2"/>
+  <line x1="190" y1="230" x2="435" y2="280" stroke="#4a90d9" stroke-width="2"/>
+  <text x="400" y="380" font-family="sans-serif" font-size="16" text-anchor="middle" fill="#333333">Mỗi môn một thư mục; mỗi môn có 3 thư mục con.</text>
+  <text x="400" y="410" font-family="sans-serif" font-size="16" text-anchor="middle" fill="#666666">Hình minh họa tự vẽ (SVG).</text>
+</svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-label="Sơ đồ một buổi tối xếp theo lịch khối: khối học, khối nghỉ và khối đệm nối tiếp nhau theo giờ">
+  <rect width="800" height="450" fill="#fdf6ec"/>
+  <text x="400" y="48" font-family="sans-serif" font-size="26" font-weight="bold" text-anchor="middle" fill="#333333">Một buổi tối theo lịch khối</text>
+  <g font-family="sans-serif" font-size="17" text-anchor="middle">
+    <rect x="60" y="110" width="170" height="90" rx="12" fill="#4a90d9"/>
+    <text x="145" y="148" fill="#ffffff" font-weight="bold">19:00–19:50</text>
+    <text x="145" y="176" fill="#ffffff">Khối học: Toán</text>
+    <rect x="255" y="110" width="90" height="90" rx="12" fill="#2e7d32"/>
+    <text x="300" y="148" fill="#ffffff" font-weight="bold">Nghỉ</text>
+    <text x="300" y="176" fill="#ffffff">10 phút</text>
+    <rect x="370" y="110" width="170" height="90" rx="12" fill="#4a90d9"/>
+    <text x="455" y="148" fill="#ffffff" font-weight="bold">20:00–20:50</text>
+    <text x="455" y="176" fill="#ffffff">Khối học: Anh văn</text>
+    <rect x="565" y="110" width="90" height="90" rx="12" fill="#2e7d32"/>
+    <text x="610" y="148" fill="#ffffff" font-weight="bold">Nghỉ</text>
+    <text x="610" y="176" fill="#ffffff">10 phút</text>
+  </g>
+  <g font-family="sans-serif" font-size="17" text-anchor="middle">
+    <rect x="60" y="240" width="170" height="90" rx="12" fill="#4a90d9"/>
+    <text x="145" y="278" fill="#ffffff" font-weight="bold">21:00–21:30</text>
+    <text x="145" y="306" fill="#ffffff">Khối học: Sinh học</text>
+    <rect x="255" y="240" width="170" height="90" rx="12" fill="#e67e22"/>
+    <text x="340" y="278" fill="#ffffff" font-weight="bold">Khối đệm</text>
+    <text x="340" y="306" fill="#ffffff">Việc chậm hơn dự kiến</text>
+    <rect x="450" y="240" width="170" height="90" rx="12" fill="#888888"/>
+    <text x="535" y="278" fill="#ffffff" font-weight="bold">21:30 trở đi</text>
+    <text x="535" y="306" fill="#ffffff">Nghỉ, không xếp khối</text>
+  </g>
+  <text x="400" y="390" font-family="sans-serif" font-size="16" text-anchor="middle" fill="#666666">Hình minh họa tự vẽ (SVG) — lịch gợi ý, không phải lịch đã được nghiên cứu chứng minh.</text>
+</svg>

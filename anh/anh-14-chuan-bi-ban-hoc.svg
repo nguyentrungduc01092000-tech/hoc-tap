@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-label="Sơ đồ so sánh mặt bàn bừa bộn và mặt bàn đã chuẩn bị gọn gàng với 5 bước dọn dẹp, chuẩn bị dụng cụ và viết việc đầu tiên">
+  <rect width="640" height="360" fill="#f7f5ef"/>
+  <text x="320" y="34" text-anchor="middle" font-family="sans-serif" font-size="18" font-weight="bold" fill="#1f2937">Chuẩn bị bàn học trong 5 phút</text>
+  <rect x="40" y="55" width="260" height="120" rx="8" fill="#fee2e2" stroke="#dc2626" stroke-width="2"/>
+  <text x="170" y="80" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#991b1b">TRƯỚC: bàn bừa</text>
+  <text x="170" y="105" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#374151">Sách môn khác, giấy vụn,</text>
+  <text x="170" y="125" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#374151">cốc uống dở, điện thoại,</text>
+  <text x="170" y="145" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#374151">bút hết mực — tìm đồ mãi</text>
+  <text x="170" y="165" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#991b1b">Đứng dậy 4–5 lần / buổi</text>
+  <rect x="340" y="55" width="260" height="120" rx="8" fill="#dcfce7" stroke="#16a34a" stroke-width="2"/>
+  <text x="470" y="80" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#166534">SAU: bàn đã chuẩn bị</text>
+  <text x="470" y="105" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#374151">Chỉ sách vở môn đang học,</text>
+  <text x="470" y="125" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#374151">bút thử mực, nước uống,</text>
+  <text x="470" y="145" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#374151">tờ giấy ghi việc đầu tiên</text>
+  <text x="470" y="165" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#166534">Ngồi xuống là học ngay</text>
+  <text x="320" y="205" text-anchor="middle" font-family="sans-serif" font-size="14" font-weight="bold" fill="#1f2937">5 bước chuẩn bị</text>
+  <g font-family="sans-serif" font-size="13" fill="#1f2937">
+    <rect x="40" y="220" width="110" height="52" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="1.5"/>
+    <text x="95" y="242" text-anchor="middle" font-weight="bold">1. Dọn mặt bàn</text>
+    <text x="95" y="260" text-anchor="middle">bỏ đồ thừa</text>
+    <rect x="160" y="220" width="110" height="52" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="1.5"/>
+    <text x="215" y="242" text-anchor="middle" font-weight="bold">2. Chỉ để đồ</text>
+    <text x="215" y="260" text-anchor="middle">môn đang học</text>
+    <rect x="280" y="220" width="110" height="52" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="1.5"/>
+    <text x="335" y="242" text-anchor="middle" font-weight="bold">3. Chuẩn bị</text>
+    <text x="335" y="260" text-anchor="middle">bút, thước, nước</text>
+    <rect x="400" y="220" width="110" height="52" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="1.5"/>
+    <text x="455" y="242" text-anchor="middle" font-weight="bold">4. Kiểm tra</text>
+    <text x="455" y="260" text-anchor="middle">ánh sáng, tiếng ồn</text>
+    <rect x="520" y="220" width="80" height="52" rx="6" fill="#ffffff" stroke="#2563eb" stroke-width="1.5"/>
+    <text x="560" y="242" text-anchor="middle" font-weight="bold">5. Viết việc</text>
+    <text x="560" y="260" text-anchor="middle">đầu tiên</text>
+  </g>
+  <text x="320" y="300" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#374151">Điện thoại để vào ngăn kéo — không để trên bàn.</text>
+  <text x="320" y="322" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#374151">Học xong: cất sách vở vào cặp để sáng mai không phải tìm.</text>
+  <text x="320" y="348" text-anchor="middle" font-family="sans-serif" font-size="11" fill="#6b7280">Hình minh họa tự vẽ — không phải ảnh chụp</text>
+</svg>

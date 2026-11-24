@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-label="Sơ đồ hệ thống hộp Leitner: thẻ mới ở hộp 1, trả lời đúng thì lên hộp cao hơn, trả lời sai thì về hộp 1">
+  <rect width="800" height="450" fill="#fdf6ec"/>
+  <text x="400" y="48" font-family="sans-serif" font-size="26" font-weight="bold" text-anchor="middle" fill="#333333">Hệ thống hộp Leitner — thẻ ghi nhớ</text>
+  <g font-family="sans-serif" font-size="18" text-anchor="middle">
+    <rect x="40" y="110" width="200" height="120" rx="12" fill="#d64545"/>
+    <text x="140" y="150" fill="#ffffff" font-weight="bold">Hộp 1 — Mới</text>
+    <text x="140" y="180" fill="#ffffff">Ôn mỗi ngày</text>
+    <text x="140" y="208" fill="#ffffff">Sai thì ở lại</text>
+    <text x="255" y="175" font-size="28" fill="#333333">→</text>
+    <rect x="280" y="110" width="200" height="120" rx="12" fill="#e67e22"/>
+    <text x="380" y="150" fill="#ffffff" font-weight="bold">Hộp 2 — Quen</text>
+    <text x="380" y="180" fill="#ffffff">Ôn cách ngày</text>
+    <text x="380" y="208" fill="#ffffff">Đúng thì lên hộp 3</text>
+    <text x="495" y="175" font-size="28" fill="#333333">→</text>
+    <rect x="520" y="110" width="240" height="120" rx="12" fill="#2e7d32"/>
+    <text x="640" y="150" fill="#ffffff" font-weight="bold">Hộp 3 — Thuộc chắc</text>
+    <text x="640" y="180" fill="#ffffff">Ôn mỗi tuần</text>
+    <text x="640" y="208" fill="#ffffff">Sai thì về hộp 1</text>
+  </g>
+  <text x="400" y="290" font-family="sans-serif" font-size="18" text-anchor="middle" fill="#333333">Một ý mỗi thẻ — trả lời trước khi lật — xáo thẻ mỗi lần ôn.</text>
+  <text x="400" y="325" font-family="sans-serif" font-size="18" text-anchor="middle" fill="#333333">Thẻ khó tự quay về hộp 1, thẻ dễ leo dần lên hộp cao hơn.</text>
+  <text x="400" y="420" font-family="sans-serif" font-size="16" text-anchor="middle" fill="#666666">Hình minh họa tự vẽ (SVG) — theo hướng dẫn của Đại học York về hệ thống Leitner.</text>
+</svg>

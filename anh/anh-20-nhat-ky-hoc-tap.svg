@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" role="img" aria-label="Sơ đồ một trang nhật ký học tập mỗi tuần với bốn mục: đã học gì, đã hiểu gì, còn vướng gì, tuần sau làm gì.">
+  <rect width="640" height="360" fill="#f4f1ea"/>
+  <text x="320" y="36" text-anchor="middle" font-family="sans-serif" font-size="20" font-weight="bold" fill="#2f4858">Nhật ký học tập mỗi tuần — 10 phút</text>
+  <g font-family="sans-serif" font-size="15" fill="#2f4858">
+    <rect x="40" y="60" width="270" height="110" rx="10" fill="#cfe3d8" stroke="#2f4858"/>
+    <text x="175" y="88" text-anchor="middle" font-weight="bold">1. Tuần này đã học gì</text>
+    <text x="175" y="114" text-anchor="middle">Liệt kê ngắn gọn</text>
+    <text x="175" y="138" text-anchor="middle">từng môn đã học</text>
+    <rect x="330" y="60" width="270" height="110" rx="10" fill="#f6d9a0" stroke="#2f4858"/>
+    <text x="465" y="88" text-anchor="middle" font-weight="bold">2. Mình đã hiểu gì</text>
+    <text x="465" y="114" text-anchor="middle">Viết bằng lời của mình,</text>
+    <text x="465" y="138" text-anchor="middle">không chép định nghĩa</text>
+    <rect x="40" y="190" width="270" height="110" rx="10" fill="#f2c4b6" stroke="#2f4858"/>
+    <text x="175" y="218" text-anchor="middle" font-weight="bold">3. Mình còn vướng gì</text>
+    <text x="175" y="244" text-anchor="middle">Càng cụ thể càng tốt:</text>
+    <text x="175" y="268" text-anchor="middle">vướng ở đâu, vì sao</text>
+    <rect x="330" y="190" width="270" height="110" rx="10" fill="#c9d6ef" stroke="#2f4858"/>
+    <text x="465" y="218" text-anchor="middle" font-weight="bold">4. Tuần sau làm gì</text>
+    <text x="465" y="244" text-anchor="middle">Một hoặc hai việc</text>
+    <text x="465" y="268" text-anchor="middle">cụ thể, làm được ngay</text>
+  </g>
+  <text x="320" y="332" text-anchor="middle" font-family="sans-serif" font-size="13" fill="#5a6b7a">Hình minh họa tự vẽ — không phải ảnh chụp</text>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450" role="img" aria-label="Sơ đồ ba bước Active Recall: gấp sách lại và tự hỏi, trả lời từ trí nhớ, mở sách ra kiểm tra và sửa sai">
+  <rect width="800" height="450" fill="#fdf6ec"/>
+  <text x="400" y="48" font-family="sans-serif" font-size="26" font-weight="bold" text-anchor="middle" fill="#333333">Active Recall trong một buổi học</text>
+  <g font-family="sans-serif" font-size="18" text-anchor="middle">
+    <rect x="60" y="120" width="200" height="130" rx="12" fill="#4a90d9"/>
+    <text x="160" y="165" fill="#ffffff" font-weight="bold">1. Gấp sách lại</text>
+    <text x="160" y="195" fill="#ffffff">Tự hỏi mình</text>
+    <text x="160" y="223" fill="#ffffff">vừa học gì</text>
+    <text x="290" y="190" font-size="28" fill="#333333">→</text>
+    <rect x="330" y="120" width="200" height="130" rx="12" fill="#d64545"/>
+    <text x="430" y="165" fill="#ffffff" font-weight="bold">2. Trả lời</text>
+    <text x="430" y="195" fill="#ffffff">từ trí nhớ,</text>
+    <text x="430" y="223" fill="#ffffff">viết ra bằng lời mình</text>
+    <text x="560" y="190" font-size="28" fill="#333333">→</text>
+    <rect x="600" y="120" width="160" height="130" rx="12" fill="#2e7d32"/>
+    <text x="680" y="165" fill="#ffffff" font-weight="bold">3. Mở sách</text>
+    <text x="680" y="195" fill="#ffffff">kiểm tra</text>
+    <text x="680" y="223" fill="#ffffff">và sửa sai</text>
+  </g>
+  <text x="400" y="320" font-family="sans-serif" font-size="18" text-anchor="middle" fill="#333333">Trả lời sai vẫn có ích, miễn là sau đó bạn xem lại đáp án đúng.</text>
+  <text x="400" y="390" font-family="sans-serif" font-size="16" text-anchor="middle" fill="#666666">Hình minh họa tự vẽ (SVG).</text>
+</svg>
