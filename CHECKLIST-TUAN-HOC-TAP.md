@@ -1,6 +1,6 @@
 # Checklist một tuần học tập — in được
 
-Checklist tự làm, tổng hợp từ nội dung 5 bài trên website #17. Đây là công cụ để người đọc tự đánh dấu và tự đánh giá, không phải thang đo đã được kiểm chứng. Đánh dấu [x] vào ô đã làm, ghi lại kết quả vào cột cuối.
+Checklist tự làm, tổng hợp từ nội dung 5 bài trên website này. Đây là công cụ để người đọc tự đánh dấu và tự đánh giá, không phải thang đo đã được kiểm chứng. Đánh dấu [x] vào ô đã làm, ghi lại kết quả vào cột cuối.
 
 ## Trước buổi học
 
@@ -9,7 +9,7 @@ Checklist tự làm, tổng hợp từ nội dung 5 bài trên website #17. Đâ
 - [ ] Đã dọn bàn học, cất điện thoại sang chỗ khác, đóng tab không liên quan
 - [ ] Đã chuẩn bị sẵn vở Cornell (cột gợi ý để trống, cột ghi chép, phần tóm tắt)
 
-## Trong buổi học — Pomodoro (Bài 1)
+## Trong buổi học — Pomodoro
 
 - [ ] Đã làm đủ số chặng đã đặt ra (ghi số chặng: ______)
 - [ ] Mỗi chặng chỉ làm một việc, không vừa học vừa trả lời tin nhắn
@@ -17,28 +17,28 @@ Checklist tự làm, tổng hợp từ nội dung 5 bài trên website #17. Đâ
 - [ ] Nghỉ 5 phút đứng dậy, uống nước, không lướt điện thoại
 - [ ] Sau 4 chặng đã nghỉ dài 15–30 phút
 
-## Ghi chép — Cornell (Bài 2)
+## Ghi chép — Cornell
 
 - [ ] Cột ghi chép chỉ ghi ý chính bằng câu ngắn, không chép nguyên văn cả đoạn dài
 - [ ] Sau buổi học đã viết câu hỏi hoặc từ khóa vào cột gợi ý
 - [ ] Sau buổi học đã viết phần tóm tắt cuối trang bằng lời của mình
 - [ ] Đã khoanh tròn từ chưa hiểu và ghi dấu hỏi bên cạnh
 
-## Tự kiểm tra — Active Recall (Bài 3)
+## Tự kiểm tra — Active Recall
 
 - [ ] Đã gấp sách lại và tự viết ra ý chính từ trí nhớ trước khi mở sách kiểm tra
 - [ ] Đã mở sách ra đối chiếu và ghi lại chỗ sai hoặc thiếu
 - [ ] Đã dùng câu hỏi tự luận ngắn, không chỉ làm trắc nghiệm
 - [ ] Thẻ ghi nhớ (nếu có) chỉ hỏi một ý, đáp án ngắn gọn, đã xáo trộn thứ tự
 
-## Hiểu sâu — Feynman (Bài 4)
+## Hiểu sâu — Feynman
 
 - [ ] Đã chọn một khái niệm cụ thể, không phải cả một chương
 - [ ] Đã thử giải thích khái niệm đó bằng câu đầy đủ, định nghĩa mọi thuật ngữ đã dùng
 - [ ] Đã đánh dấu đúng chỗ bị khựng lại và chỉ đọc lại phần đó trong sách
 - [ ] Đã viết lại lời giải thích ngắn gọn và rõ ràng hơn lần đầu
 
-## Ôn lại — Lặp lại ngắt quãng (Bài 5)
+## Ôn lại — Lặp lại ngắt quãng
 
 - [ ] Đã ôn lại bài của hôm trước trước khi học bài mới
 - [ ] Buổi ôn lại bắt đầu bằng tự kiểm tra, không đọc lại toàn bộ bài từ đầu

@@ -39,4 +39,4 @@ Chủ đề ví dụ: quang hợp (môn Sinh học).
 
 **Tóm tắt ví dụ:** Quang hợp là quá trình cây dùng ánh sáng để biến nước và khí cacbonic thành đường và oxy, gồm giai đoạn cần ánh sáng và giai đoạn không cần ánh sáng trực tiếp.
 
-Nguồn cho bố cục mẫu: Đại học Cornell, "Take Note: Popular Study Method has 'Cornell' Written All Over It" (https://alumni.cornell.edu/cornellians/cornell-notes/); MindTools, "The Cornell Note-Taking System" (https://www.mindtools.com/axbdk4f/the-cornell-note-taking-system/). Xem chi tiết trong Bài 2.
+Nguồn cho bố cục mẫu: Đại học Cornell, "Take Note: Popular Study Method has 'Cornell' Written All Over It" (https://alumni.cornell.edu/cornellians/cornell-notes/); MindTools, "The Cornell Note-Taking System" (https://www.mindtools.com/axbdk4f/the-cornell-note-taking-system/). Xem chi tiết trong bài viết về ghi chép Cornell trên website này.
