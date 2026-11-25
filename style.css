@@ -12,7 +12,7 @@ h2 { font-size: 1.3rem; margin-top: 1.6em; }
 h3 { font-size: 1.1rem; }
 a { color: #166534; }
 figure { margin: 1.2em 0; text-align: center; }
-figure img { max-width: 100%; height: auto; }
+figure img { width: 100%; max-width: 100%; height: auto; }
 figcaption { font-size: 0.9rem; color: #555; margin-top: 6px; }
 table { border-collapse: collapse; width: 100%; margin: 1em 0; font-size: 0.95rem; }
 th, td { border: 1px solid #ccc; padding: 6px 8px; text-align: left; }
@@ -25,3 +25,5 @@ ul.articles li { margin: 10px 0; }
 ul.articles a { font-weight: 600; }
 .cat-desc { color: #555; }
 @media (max-width: 600px) { main { padding: 12px; } h1 { font-size: 1.35rem; } }
+a{overflow-wrap:anywhere}
+main{overflow-wrap:anywhere}
