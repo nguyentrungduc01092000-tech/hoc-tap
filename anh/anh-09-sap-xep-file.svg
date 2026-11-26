@@ -26,5 +26,5 @@
   <line x1="190" y1="230" x2="295" y2="280" stroke="#4a90d9" stroke-width="2"/>
   <line x1="190" y1="230" x2="435" y2="280" stroke="#4a90d9" stroke-width="2"/>
   <text x="400" y="380" font-family="sans-serif" font-size="16" text-anchor="middle" fill="#333333">Mỗi môn một thư mục; mỗi môn có 3 thư mục con.</text>
-  <text x="400" y="410" font-family="sans-serif" font-size="16" text-anchor="middle" fill="#666666">Hình minh họa được vẽ riêng cho website (SVG).</text>
+  <text x="400" y="410" font-family="sans-serif" font-size="16" text-anchor="middle" fill="#666666">Thư mục học kỳ mẫu: mỗi môn có ba thư mục con Ghi chép, Bài tập và Ôn thi, kèm sao lưu đám mây.</text>
 </svg>
